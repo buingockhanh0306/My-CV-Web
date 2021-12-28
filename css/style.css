@@ -27,6 +27,11 @@ html
 .cv-other2
 {
   box-shadow: 0 2px 5px 0 rgb(0 0 0 / 16%), 0 2px 10px 0 rgb(0 0 0 / 12%);
+  margin-top: 20px;
+}
+.cv-other2-mg
+{
+  margin-top: 20px;
 }
 .cv-basic-img
 {
